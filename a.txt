@@ -1,0 +1,1 @@
+hitherethisfileyoucretaedtotestfs.readFilewow hi there this file you cretaed to test fs.readFile wow node 
