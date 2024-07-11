@@ -131,7 +131,8 @@ app.delete("/",function(req,res){
 })
 app.listen(3000);*/
 const array=[1,2,3,4,5]
-let newarray=array.filter(function (e) {
-  e*2;
+let newarray=map(array,function(e){
+  e
 })
 console.log(newarray)
+//learinig git
